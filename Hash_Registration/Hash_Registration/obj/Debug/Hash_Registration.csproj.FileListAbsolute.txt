@@ -1,0 +1,10 @@
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe.config
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.pdb
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.AssemblyReference.cache
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.Form1.resources
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.Properties.Resources.resources
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.GenerateResource.cache
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.CoreCompileInputs.cache
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.exe
+D:\KINGSTON\MZI_Labs\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.pdb
