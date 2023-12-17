@@ -24,21 +24,20 @@ namespace Hash_Registration
 
         async private void Form1_Load(object sender, EventArgs e)
         {
-            Form1 F = new Form1();
-
-            //Form1 F = new Form1();
-            for (float j = 0; j <= 10; j++)
+            Welcome W = new Welcome();
+            for (float j = 0; j < 1; j++)
             {
-                for (float i = 0; i < 1; i += 0.05f, await Task.Delay(10))
+                for (float i = 0; i < 1; i += 0.01f, await Task.Delay(10))
                 {
                     this.Opacity = i;
                 }
-                for (float i = 1; i >= 0; i -= 0.05f, await Task.Delay(10))
+                for (float i = 1; i >= 0; i -= 0.01f, await Task.Delay(10))
                 {
                     this.Opacity = i;
                 }
             }
-            MessageBox.Show(Convert.ToString(F.Opacity));
+            this.Hide();
+            W.Show();
         }
     }
 }
