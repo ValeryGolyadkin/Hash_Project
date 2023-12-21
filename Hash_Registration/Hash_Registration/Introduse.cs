@@ -29,11 +29,6 @@ namespace Hash_Registration
             InitializeComponent();
         }
 
-        private void Introduse_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void label5_Click(object sender, EventArgs e)
         {
             if (ShowPassword == true)
@@ -42,7 +37,6 @@ namespace Hash_Registration
                 ShowPassword = false;
             }
             else { ShowPassword = true; textBox2.PasswordChar = '\0'; }
-            textBox1.Text = Convert.ToString(ShowPassword);
         }
 
         private void label5_MouseEnter(object sender, EventArgs e)
@@ -149,25 +143,7 @@ namespace Hash_Registration
             //MessageBox.Show(Convert.ToString(B));
         }
 
-        private void label4_MouseEnter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_MouseLeave(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
