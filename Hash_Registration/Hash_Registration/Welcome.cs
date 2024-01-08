@@ -62,5 +62,10 @@ namespace Hash_Registration
                 button1.Enabled = false;
             }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

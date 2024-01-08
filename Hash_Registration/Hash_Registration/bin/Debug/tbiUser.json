@@ -1,0 +1,74 @@
+{
+  "Users": [
+    {
+      "_ID": 1,
+      "_LOGIN": "admin",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouogU/7xm1wkF8IxlcsEjObn00DSEkvni",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 2,
+      "_LOGIN": "Veles",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouogU/7xm1wkF8IxlcsEjObn00DSEkvni",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 2,
+      "_LOGIN": "Veles",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouogU/7xm1wkF8IxlcsEjObn00DSEkvni",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 4,
+      "_LOGIN": "Grisha",
+      "_PASSWORD": "$2a$11$ZrOQV8EWyVen3DAxHFUdROkDFn8ig0dedQ6Pnf0KIalUhpg7ls3eu",
+      "_ACCESS": "A",
+      "_DATE": "06.2023"
+    },
+    {
+      "_ID": 5,
+      "_LOGIN": "roma",
+      "_PASSWORD": "$2a$11$tb2lHCcBdRQ0.8oL9IIui.g8Zq8BRFDmCJTFWOJSeo207Ca8gZ1tO",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 6,
+      "_LOGIN": "admin",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouogU/7xm1wkF8IxlcsEjObn00DSEkvni",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 7,
+      "_LOGIN": "isidoro",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouZry4RxTrVRYRu0EMxxJPblna06rZAZq",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 8,
+      "_LOGIN": "guts",
+      "_PASSWORD": "$2a$11$p.zN1/pc2.WgWTG5qK2swOXTNxqeCqtHbwCZ7vOx6WdANgW/Aa6U.",
+      "_ACCESS": "A",
+      "_DATE": "02.2023"
+    },
+    {
+      "_ID": 9,
+      "_LOGIN": "pack",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXoouYGywNSvCy.ixnX3sfoXaHG/WQ4gDr1G",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    },
+    {
+      "_ID": 10,
+      "_LOGIN": "readmy",
+      "_PASSWORD": "$2a$11$kEfccxhFYcUFvKMnqtXooupNBSM8WUzsqFi/jYEQFC.HqY/1wG3cG",
+      "_ACCESS": "A",
+      "_DATE": "12.2023"
+    }
+  ]
+}

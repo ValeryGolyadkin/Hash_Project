@@ -76,7 +76,7 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(283, 191);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox2.MaxLength = 10;
+            this.textBox2.MaxLength = 38900;
             this.textBox2.Name = "textBox2";
             this.textBox2.PasswordChar = '*';
             this.textBox2.Size = new System.Drawing.Size(344, 22);
@@ -186,6 +186,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Introduse";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Introduse_FormClosed);
+            this.Load += new System.EventHandler(this.Introduse_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

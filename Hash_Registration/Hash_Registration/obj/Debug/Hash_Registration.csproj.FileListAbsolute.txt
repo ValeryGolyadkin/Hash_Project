@@ -85,27 +85,6 @@ I:\KINGSTON\MPI_Labs\Hash_Project — копия\Hash_Registration\Hash_Registra
 I:\KINGSTON\MPI_Labs\Hash_Project — копия\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.CopyComplete
 I:\KINGSTON\MPI_Labs\Hash_Project — копия\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.exe
 I:\KINGSTON\MPI_Labs\Hash_Project — копия\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.pdb
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe.config
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.pdb
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Buffers.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Memory.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Encodings.Web.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Json.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.ValueTuple.dll
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Buffers.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Memory.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Encodings.Web.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Json.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.ValueTuple.xml
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.SuggestedBindingRedirects.cache
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.Form1.resources
@@ -115,6 +94,29 @@ C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.Welcome.resources
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.GenerateResource.cache
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe.config
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.exe
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Hash_Registration.pdb
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\bin\Debug\System.ValueTuple.xml
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.csproj.CopyComplete
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.exe
 C:\Users\User\Desktop\Hash_Project\Hash_Registration\Hash_Registration\obj\Debug\Hash_Registration.pdb
